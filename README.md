@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
 
 ## 📫 Let's Connect!
 
-- **Email:** (mailto:wyan00196@gmail.com)
-- **LinkedIn:** ([https://linkedin.com/in/wai-yan-hein-a69827258](https://linkedin.com/in/wai-yan-hein-a69827258))
+- **Email:** [wyan00196@gmail.com](mailto:wyan00196@gmail.com)
+- **LinkedIn:** ([https://linkedin.com/in/wai-yan-hein](https://linkedin.com/in/wai-yan-hein-a69827258))
 - **Facebook:** ([https://facebook.com/WaiYanHein](https://www.facebook.com/profile.php?id=100080279465831))
 
 Feel free to reach out if you'd like to collaborate, have questions, or just want to chat about tech!
