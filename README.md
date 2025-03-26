@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
 
 ## 📫 Let's Connect!
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wyan.dev01@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080279465831)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wai-yan-hein-a69827258)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wyan.dev01@gmail.com)
 
 
 ## 📊 GitHub Stats:
