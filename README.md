@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** specializi
 ## 🚀 About Me
 
 - 🧑‍💻 I'm a frontend developer with a focus on **React** and **Next.js**.
-- 🌱 I’m currently learning **Express.js, Prisma, MySQL, MongoDB to be a MERN stack developer.**
+- 🌱 I’m currently learning **Express.js, Prisma, MySQL, PostgreSQL to be a MERN stack developer.**
 - 💼 Open to collaborating on exciting projects and contributing to open-source.
 - 🔭 I’m currently working on [Meetta](https://meetta.org/)
 - 👯 I’m looking to collaborate on [Boss-Nation POS](https://boss-pos.vercel.app/)
