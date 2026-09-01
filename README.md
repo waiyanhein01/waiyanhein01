@@ -1,6 +1,6 @@
 # Hi, I'm Wai Yan Hein 👋
 
-### Full-Stack Developer | Software Engineering
+### Full-Stack Developer | Software Engineer
 
 I'm a **Full-Stack Developer** focused on building scalable, maintainable, and well-structured software.
 
