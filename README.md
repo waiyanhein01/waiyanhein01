@@ -23,7 +23,7 @@ Beyond frameworks and libraries, I'm currently focusing on strengthening my **So
 
 **Frontend**
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Redux` · `Tailwind CSS`
+`React` · `Nextjs` · `JavaScript` · `TypeScript` · `Redux` · `Zustand` · `TanStack Query` · `Tailwind CSS` · `Shacn` · `Axios`
 
 **Backend**
 
@@ -31,11 +31,11 @@ Beyond frameworks and libraries, I'm currently focusing on strengthening my **So
 
 **Database**
 
-`PostgreSQL` · `MySQL`
+`PostgreSQL` · `MySQL` · `MongoDb`
 
 **Tools & Workflow**
 
-`Git` · `GitHub` · `Vite` · `Vercel`
+`Git` · `GitHub` · `Vite` · `Vercel` · `Jira` · `Slack`
 
 ## 🚀 What You'll Find Here
 
