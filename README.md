@@ -1,58 +1,35 @@
-# Hi, I'm Wai Yan Hein 👋
+# Hi, I'm Wai Yan Hein
 
-### Full-Stack Developer | Software Engineer
+### Full-Stack Developer · Frontend Engineering
 
-I'm a **Full-Stack Developer** focused on building scalable, maintainable, and well-structured software.
+I develop web applications with **React, Next.js, TypeScript, and Node.js**, specializing in frontend engineering. My experience includes building reusable interfaces, managing application state, integrating REST APIs, and working across backend services and databases.
 
-I work across both frontend and backend development, with experience building modern web applications, designing reusable components, integrating APIs, managing application state, and working with databases.
+I value clear component boundaries, predictable data flow, and readable code. My approach is to keep solutions practical and responsibilities well defined, making applications easier to understand, maintain, and extend.
 
-Beyond frameworks and libraries, I'm currently focusing on strengthening my **Software Engineering** fundamentals — writing clean code, designing better architectures, understanding design principles, and making technical decisions that keep software maintainable as it grows.
+## Engineering Focus
 
-## 👨‍💻 What I Do
+- **Frontend development:** component architecture, reusable UI, and application state management.
+- **API integration:** connecting interfaces to backend services and managing server state with TanStack Query.
+- **Full-stack development:** REST APIs with Express, database integration, and data modeling.
+- **Scalability:** designing modular components and clear data flows that support growing application complexity and evolving requirements.
+- **Maintainability:** refactoring existing code, reducing duplication, and improving separation of concerns.
 
-* Build full-stack web applications
-* Design reusable and maintainable frontend architecture
-* Develop and integrate REST APIs
-* Work with relational databases and data modeling
-* Refactor legacy and existing code for better maintainability
-* Apply clean code and software design principles
-* Work with Git-based development workflows
-* Focus on code readability, scalability, and developer experience
+## Technical Stack
 
-## 🛠 Tech Stack
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript, TypeScript |
+| Frontend | React, Next.js, Tailwind CSS, shadcn/ui |
+| State & Data | Redux, Zustand, TanStack Query, Axios |
+| Backend | Node.js, Express.js, REST APIs, Prisma |
+| Databases | PostgreSQL, MySQL, MongoDB |
+| Development Tools | Git, GitHub, Vite |
+| Hosting & Deployment | Vercel, Firebase, Cloudflare |
 
-**Frontend**
+## Professional Development
 
-`React` · `Nextjs` · `JavaScript` · `TypeScript` · `Redux` · `Zustand` · `TanStack Query` · `Tailwind CSS` · `Shacn` · `Axios`
+I'm continuing to strengthen my software engineering practice through the study of clean code, object-oriented design, design patterns, functional programming, test-driven development, and refactoring.
 
-**Backend**
+## Connect
 
-`Node.js` · `Express.js` · `REST API` · `Prisma`
-
-**Database**
-
-`PostgreSQL` · `MySQL` · `MongoDb`
-
-**Tools & Workflow**
-
-`Git` · `GitHub` · `Vite` · `Vercel` · `Jira` · `Slack`
-
-## 🚀 What You'll Find Here
-
-My GitHub is where I build, experiment, and document what I'm learning about:
-
-* Full-stack web development
-* Frontend architecture
-* Backend development
-* Clean and maintainable code
-* Software engineering principles
-* Design patterns and architecture
-* Real-world problem solving
-
-## 📫 Connect
-
-**Portfolio:** [waiyanhein.is-a.dev](https://waiyanhein.is-a.dev/)
-
-**LinkedIn:** [Wai Yan Hein](https://linkedin.com/in/wai-yan-hein-a69827258)
-
-**Email:** [wyan.dev01@gmail.com](mailto:wyan.dev01@gmail.com)
+[Portfolio](https://waiyanhein.is-a.dev/) · [LinkedIn](https://linkedin.com/in/wai-yan-hein-a69827258) · [Email](mailto:wyan.dev01@gmail.com)
